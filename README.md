@@ -1,25 +1,28 @@
-# Ratail&RAT-Hoding
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=LICENSE=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# RAT - Hodin
 
-![immagine](https://user-images.githubusercontent.com/56889513/117024362-3707ed80-acfa-11eb-9406-e7ab88d32bfc.png)
+A Remote Administration Tool for Linux
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Dependencies : 
+-------------
+Install GTK 2.0 with the following commands : 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+sudo apt-get install gtk2.0
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+sudo apt-get install build-essential libgtk2.0-dev
 
+Videos Tutoriels :
+----------------
+ - Hodin from A to Z :
+ 
+ https://www.youtube.com/watch?v=E7BmMhXdN4Y
+ 
+Screenshots :
+------------
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=MORE=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+![hodin](https://www.zupimages.net/up/20/26/9vgu.png)
+
+![hodin](https://www.zupimages.net/up/20/26/zyw3.png)
+
+![hodin](https://www.zupimages.net/up/20/26/0pic.png)
+
+Enjoy & Have Fun !
